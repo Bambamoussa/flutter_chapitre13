@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-fr/dyma/flutter_chapitre13/BuildConfig.java
- fr.dyma.flutter_chapitre13.BuildConfig
