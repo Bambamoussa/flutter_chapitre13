@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../../../providers/city_provider.dart';
-import '../../../widgets/dyma_loader.dart';
+import '../../providers/city_provider.dart';
+import '../../widgets/dyma_loader.dart';
 import 'package:provider/provider.dart';
 import './widgets/city_card.dart';
 import '../../widgets/dyma_drawer.dart';
