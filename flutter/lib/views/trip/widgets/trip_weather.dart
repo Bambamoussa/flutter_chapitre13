@@ -38,7 +38,7 @@ class TripWeather extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.center,
               children: <Widget>[
                 Text(
-                  'Meteo',
+                  'Météo',
                   style: TextStyle(fontSize: 20),
                 ),
                 Image.network(

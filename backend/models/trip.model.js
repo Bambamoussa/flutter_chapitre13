@@ -3,9 +3,9 @@ const schema = mongoose.Schema;
 const activitySchema = require("./activity.model");
 
 const tripSchema = schema({
-  city: String,
+  city: { type: String, required: true },
   activities: [activitySchema],
-  date: Date
+  date: Date,
 });
 
 const Trip = mongoose.model("trip", tripSchema);
